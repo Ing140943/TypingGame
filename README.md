@@ -20,6 +20,7 @@ requirement( important!!)
 - Java (I suggested you to have version 11)
 - Javafx
 - Download JavaWords.txt
+![](https://github.com/Ing140943/TypingGame/blob/master/picture/JustShowHow%20to%20type.png)
 
 This is "High level" of README file so I think people who read my project can able to run the jar file in CMD.
 But if you don't really know I have some example picture for run jarFile.
