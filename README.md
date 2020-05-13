@@ -7,6 +7,9 @@ Typing Game is a game that challenge how fast can you type. It is good game to r
 When you start executing the program you can see three menus at the main window.
 - the first menu is "Start Typing!" click this button to start the game!
 - the second menu is "Rules" click this button to see the rules of this game.
+- the third menu is "Exist" click this button to exist the program.
+
+![](https://github.com/Ing140943/TypingGame/blob/master/picture/menu.png)
 
 ## Each word have limit time!
 
