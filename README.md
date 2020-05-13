@@ -29,4 +29,4 @@ But if you don't really know I have some example picture for run jarFile.
 ![](https://github.com/Ing140943/TypingGame/blob/master/picture/JustShowHow%20to%20type.png)
 
 
-##If you wonder some code in my Game you can contact setthanat.k@ku.th or skladee@hotmail.co.th
+If you wonder some code in my Game you can contact setthanat.k@ku.th or skladee@hotmail.co.th
