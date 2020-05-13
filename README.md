@@ -1,6 +1,7 @@
 # TypingGame
 
 Typing Game is a game that challenge how fast can you type. It is good game to review your Java commands or methods.
+!!!!!!!! Please clone my repository and put jar file in the repository because my game required JavaWords.txt to execute.
 site for Jarfile (15 mb) https://drive.google.com/file/d/16sMc8lLH1D8pPpm1_o0YPCOAQ2XJSVvG/view?usp=sharing
 
 ## Start the Game
@@ -25,7 +26,7 @@ You should type each word in time otherwise your hp will decrease.
 requirement( important!!)
 - Java (I suggested you to have version 11)
 - Javafx
-- Download JavaWords.txt
+- Download JavaWords.txt 
 
 
 ## Command
