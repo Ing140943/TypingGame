@@ -15,6 +15,8 @@ When you start executing the program you can see three menus at the main window.
 
 You should type each word in time otherwise your hp will decrease.
 
+![](https://github.com/Ing140943/TypingGame/blob/master/picture/playing.png)
+
 ## Rule
 ![](https://github.com/Ing140943/TypingGame/blob/master/picture/rule.png)
 ## How to Run this program
